@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating a Jira Clone as a showcase website
 - 📫 Reach me on git
 
-On this page a sample of my personnal and school project on this subject:
+On this page you will find a sample of my personnal and school project on these topics:
 - systeme_engineering_devops
 - high_level_programming
 - Low_level_programming
