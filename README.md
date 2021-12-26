@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OlivierGuyotFr
+- I’m interested in software Developpement
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on creating a Jira Clone as a showcase website
+- 📫 Reach me on git
